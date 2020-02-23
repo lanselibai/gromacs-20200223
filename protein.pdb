@@ -1,8 +1,3 @@
-SSBOND     CYS A   23    CYS A   88                                       2.04  
-SSBOND     CYS A  134    CYS A  194                                       2.03  
-SSBOND     CYS A  214    CYS B  434                                       2.11  
-SSBOND     CYS B  236    CYS B  310                                       2.05  
-SSBOND     CYS B  358    CYS B  414                                       2.04  
 ATOM      1  N   ASP A   1       5.283  -1.551 -10.469  1.00  0.00           N  
 ATOM      2  CA  ASP A   1       4.976  -2.838  -9.855  1.00  0.00           C  
 ATOM      3  C   ASP A   1       5.097  -2.735  -8.346  1.00  0.00           C  
